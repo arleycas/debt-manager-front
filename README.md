@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Estructura a guiarme
+
+https://www.youtube.com/watch?v=kLUdumt8lNY&t=820s
+El proyecto en github: https://github.com/GarajedeIdeas/AngularArquitectura/tree/main/src
+
+Arquitectura
+
+- Deudas
+  - Listado (Debo / Me deben)
+  - Nueva Deuda (Debo / Me deben)
+  - Historial
+- Personas
+  - Listado personas
+- Ajustes
+  ?
